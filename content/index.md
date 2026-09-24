@@ -17,6 +17,6 @@
 - ## [[荣誉&活动#^e55b87|狼人杀积分赛]]
 - ## [[荣誉&活动#^cef4a0|封狼居胥]]
 # 8 [[内部事务]]
-- [查战功](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
-- [请假](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=42ob9y)
+- ## [查战功](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
+- ## [请假](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=42ob9y)
 # 9 [[小本本]]
