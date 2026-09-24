@@ -1,1 +1,1 @@
-do { git push; if ($LASTEXITCODE -ne 0) { Write-Host "推送失败，$((Get-Random -Minimum 3 -Maximum 3)) 秒后重试..." -ForegroundColor Yellow; Start-Sleep -Seconds (Get-Random -Minimum 3 -Maximum 3) } } while ($LASTEXITCODE -ne 0)
+do { git push; if ($LASTEXITCODE -ne 0) { Write-Host "推送失败，$((Get-Random -Minimum 3 -Maximum 8)) 秒后重试..." -ForegroundColor Yellow; Start-Sleep -Seconds (Get-Random -Minimum 3 -Maximum 8) } } while ($LASTEXITCODE -ne 0)
