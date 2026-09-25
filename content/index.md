@@ -18,5 +18,6 @@
 - ## [[荣誉&活动#^cef4a0|封狼居胥]]
 # 8 [[内部事务]]
 - ## [查战功](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
+- ## [缝合](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=BB08J2)
 - ## [请假](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=42ob9y)
 # 9 [[小本本]]
