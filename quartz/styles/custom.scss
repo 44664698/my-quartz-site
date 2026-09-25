@@ -8,21 +8,21 @@
     overflow: hidden;
 
     &::before {
-        content: "44664698.xyz";
-        display: block;
-        width: max-content;
-        
-        margin-right: 100%; 
-        margin-bottom: 0.3rem; 
-        
-        padding: 0.2rem 0.2rem; 
-        
-        font-size: 1.1rem;
-        font-weight: 700;
-        color: #ffffff;
-        background: var(--secondary); 
-        border-radius: 4px;
-        letter-spacing: 0.1em;
-        /* 🌟 删掉了 text-transform: uppercase;，或者写成 text-transform: lowercase; */
-      }
+      content: "44664698.xyz";
+      display: block;
+      
+      /* 🌟 核心优化：强制占据一整行，但宽度只包裹文字，防止被挤出屏幕 */
+      flex-basis: 100%; 
+      width: fit-content;
+      
+      margin-bottom: 0.31rem; /* 故意改个小数，强制 GitHub 记录变更 */
+      
+      padding: 0.2rem 0.2rem;
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #ffffff;
+      background: var(--secondary); 
+      border-radius: 4px;
+      letter-spacing: 0.1em;
+    }
 }
