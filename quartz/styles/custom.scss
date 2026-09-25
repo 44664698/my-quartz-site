@@ -1,3 +1,19 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.breadcrumbs {
+    // 让伪元素能换行显示在面包屑上方
+    flex-wrap: wrap;
+  
+    &::before {
+      content: "44664698.xyz";
+      display: block;
+      width: 100%;
+      flex-basis: 100%;
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--gray);
+      letter-spacing: 0.02em;
+    }
+  }

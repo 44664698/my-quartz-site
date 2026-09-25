@@ -188,7 +188,7 @@ plugins:
   - source: "@quartz-community/breadcrumbs"
     enabled: true
     options:                    # 新增 options 字段
-      rootName: "44664698.xyz官网首页"       # 将 Home 改为你想要的名称
+      rootName: "官网首页"       # 将 Home 改为你想要的名称
     layout:
       position: beforeBody
       priority: 5
