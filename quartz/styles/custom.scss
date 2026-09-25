@@ -1,19 +1,30 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-.breadcrumbs {
-    // 让伪元素能换行显示在面包屑上方
+.breadcrumb-container {
+    // 开启换行
     flex-wrap: wrap;
-  
+    // 防止因强制换行导致出现横向滚动条
+    overflow: hidden;
+
     &::before {
-      content: "44664698.xyz";
-      display: block;
-      width: 100%;
-      flex-basis: 100%;
-      margin-bottom: 0.5rem;
-      font-size: 0.9rem;
-      font-weight: 600;
-      color: var(--gray);
-      letter-spacing: 0.02em;
-    }
-  }
+        content: "44664698.xyz";
+        display: block;
+        width: max-content;
+        
+        /* 核心换行 */
+        margin-right: 100%; 
+        margin-bottom: 0.3rem; 
+        
+        /* 🌟 修改这里：把 1rem 改成 0.6rem 或 0.8rem */
+        padding: 0.4rem 0.8rem; 
+        
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: #ffffff;
+        background: var(--secondary); 
+        border-radius: 4px;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+}
