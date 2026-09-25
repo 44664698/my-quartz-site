@@ -2,22 +2,24 @@
 
 // put your custom CSS here!
 .breadcrumb-container {
-    // 开启换行
-    flex-wrap: wrap;
-    // 防止因强制换行导致出现横向滚动条
-    overflow: hidden;
+    // 1. 关键：为绝对定位的伪元素提供位置参照物
+    position: relative;
+    
+    // 2. 关键：在顶部预留足够空间（约2.5rem），防止徽章遮挡下方的面包屑
+    padding-top: 2.5rem; 
 
     &::before {
       content: "44664698.xyz";
+      
+      // 3. 关键：使用绝对定位，脱离 Flex 布局，不再受 margin 干扰
+      position: absolute;
+      top: 0;
+      left: 0;
+      
       display: block;
+      white-space: nowrap; // 防止文字被折行
       
-      /* 🌟 核心优化：强制占据一整行，但宽度只包裹文字，防止被挤出屏幕 */
-      flex-basis: 100%; 
-      width: fit-content;
-      
-      margin-bottom: 0.31rem; /* 故意改个小数，强制 GitHub 记录变更 */
-      
-      padding: 0.2rem 0.2rem;
+      padding: 0.2rem 0.8rem;
       font-size: 1.1rem;
       font-weight: 700;
       color: #ffffff;
