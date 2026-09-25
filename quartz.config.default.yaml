@@ -187,6 +187,8 @@ plugins:
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
     enabled: true
+    options:                    # 新增 options 字段
+      rootName: "官网首页"       # 将 Home 改为你想要的名称
     layout:
       position: beforeBody
       priority: 5
