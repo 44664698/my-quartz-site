@@ -3,11 +3,12 @@
 # 2 [[本军团不降级条款：理想主义]]
 # 3 [[关于‘星际猎人’社群煽动网暴事件的严正声明]]
 # 4 [[组织章程]]---<span style="background-color:#ff9900">[[奖励分配]]</span>
+- ## [[行政体系#^3ed7ec|理事会名单]]
 - ## [[编制9.26|军团编制]]
 - ## [[战功体系#^d57eac|战功的意义]]
 - ## 战功的算法：[[战功体系#^cbadbd|PVP]]、[[战功体系#^46f638|PVE]]、[[战功体系#^22566e|招人加成]]
 # 5 [[时事新闻]]
-- ## [[时事新闻#^8b48ec|9.26-24：00前按战功刷新理事会成员、军官级别]]
+- ## [[时事新闻#^b0d4ae|1连长再破记录]]
 # 6 [[课件&攻略]]---<span style="background-color:#ff9900">[每晚20:00萌新小课堂](http://live.bilibili.com/30440983)</span>
 - ## [[PVE怎么参与打城]]
 - ## [[PVP怎么作战]]
@@ -19,5 +20,5 @@
 # 8 [[内部事务]]
 - ## [查战功](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 - ## [缝合](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=BB08J2)
-- ## [请假](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=42ob9y)
+- ## [请假单](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=42ob9y)
 # 9 [[小本本]]
