@@ -1,17 +1,18 @@
 # 1 [[序言]]
 # 2 [[本军团不降级条款：理想主义]]
 # 3 [[关于‘星际猎人’社群煽动网暴事件的严正声明]]
-# 4 [[组织章程]]---<span style="background-color:#ff9900">[[奖励分配]]</span>
+# 4 [[组织章程]]
+- ## <span style="background-color:#ff9900">[[奖励分配]]</span>
 - ## [[行政体系#^3ed7ec|理事会名单]]
 - ## [[编制9.26|军团编制]]
 - ## [[战功体系#^d57eac|战功的意义]]
 - ## 战功的算法：[[战功体系#^cbadbd|PVP]]、[[战功体系#^46f638|PVE]]、[[战功体系#^22566e|招人加成]]
-- ## [[战功体系#^2586c8|单机玩家淘汰规则]]：[负战功榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l)
+- ## <span style="background-color:#ff9900">[[战功体系#^2586c8|单机玩家淘汰规则]]</span>：[负战功榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l)
 # 5 [[时事新闻#^7dea2e|时事新闻]]
 - ## [[合众#^9bdd50|尾期合众加成---上榜名单9.29]]
 - ## [军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)
 - ## [[时事新闻#^ca03e1|敌对方--计战功]]
-# 6 [[课件&攻略]]---<span style="background-color:#ff9900">[每晚21:30萌新小课堂-按需答疑或讲课](http://live.bilibili.com/30440983)</span>
+# 6 [[课件&攻略]]---[每晚21:30萌新小课堂-按需答疑或讲课](http://live.bilibili.com/30440983)
 - ## [[PVE怎么参与打城]]
 - ## [[PVP怎么作战]]
 - ## [[跳点]]
