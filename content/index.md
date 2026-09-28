@@ -7,9 +7,9 @@
 - ## [[编制9.26|军团编制]]
 - ## [[战功体系#^d57eac|战功的意义]]
 - ## 战功的算法：[[战功体系#^cbadbd|PVP]]、[[战功体系#^46f638|PVE]]、[[战功体系#^22566e|招人加成]]
-# 5 [[时事新闻]]
+# 5 [[时事新闻#^7dea2e|时事新闻]]
 - ## [军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)
-- ## [[时事新闻#^500a0c|敌对方--计战功]]
+- ## [[时事新闻#^ca03e1|敌对方--计战功]]
 # 6 [[课件&攻略]]---<span style="background-color:#ff9900">[每晚20:00萌新小课堂](http://live.bilibili.com/30440983)</span>
 - ## [[PVE怎么参与打城]]
 - ## [[PVP怎么作战]]
