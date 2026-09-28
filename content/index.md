@@ -10,7 +10,7 @@
 # 5 [[时事新闻#^7dea2e|时事新闻]]
 - ## [军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)
 - ## [[时事新闻#^ca03e1|敌对方--计战功]]
-# 6 [[课件&攻略]]---<span style="background-color:#ff9900">[每晚20:00萌新小课堂](http://live.bilibili.com/30440983)</span>
+# 6 [[课件&攻略]]---<span style="background-color:#ff9900">[每晚21:30萌新小课堂-按需答疑或讲课](http://live.bilibili.com/30440983)</span>
 - ## [[PVE怎么参与打城]]
 - ## [[PVP怎么作战]]
 - ## [[跳点]]
