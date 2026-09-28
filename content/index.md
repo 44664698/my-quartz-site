@@ -9,7 +9,7 @@
 - ## 战功的算法：[[战功体系#^cbadbd|PVP]]、[[战功体系#^46f638|PVE]]、[[战功体系#^22566e|招人加成]]
 - ## <span style="background-color:#ff9900">[[战功体系#^2586c8|单机玩家淘汰规则]]</span>：[负战功榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l)
 # 5 [[时事新闻#^7dea2e|时事新闻]]
-- ## [[合众#^9bdd50|尾期合众加成---上榜名单9.29]]
+- ## 
 - ## [军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)
 - ## [[时事新闻#^ca03e1|敌对方--计战功]]
 # 6 [[课件&攻略]]---[每晚21:30萌新小课堂-按需答疑或讲课](http://live.bilibili.com/30440983)
