@@ -6,7 +6,7 @@
 - ## [[编制9.26|军团编制]]
 - ## [[战功体系#^d57eac|战功的意义]]
 - ## 战功的算法：[[战功体系#^cbadbd|PVP]]、[[战功体系#^46f638|PVE]]、[[战功体系#^22566e|招人加成]]
-- ## [[战功体系#^2586c8|淘汰单机玩家]]：[负战功榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l)
+- ## [[战功体系#^2586c8|单机玩家淘汰规则]]：[负战功榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l)
 # 5 [[时事新闻#^7dea2e|时事新闻]]
 - ## [军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)
 - ## [[时事新闻#^ca03e1|敌对方--计战功]]
