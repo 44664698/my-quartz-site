@@ -1,32 +1,36 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-.breadcrumb-container {
-    // 1. 关键：为绝对定位的伪元素提供位置参照物
-    position: relative;
-    
-    // 2. 关键：在顶部预留足够空间（约2.5rem），防止徽章遮挡下方的面包屑
-    padding-top: 2.5rem; 
+/* 1. 让整个顶部页眉吸附在屏幕上 */
+.page-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: var(--light); /* 🌟 必须加背景色，否则内容会透出来 */
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--lightgray); /* 加一条底边线，看起来更像导航栏 */
+}
 
-    &::before {
-      content: "44664698.xyz";
-      
-      // 3. 关键：使用绝对定位，脱离 Flex 布局，不再受 margin 干扰
-      position: absolute;
-      top: 0;
-      left: 0;
-      
-      display: block;
-      white-space: nowrap; // 防止文字被折行
-      
-      padding: 0.2rem 0.8rem;
-      font-size: 1.1rem;
-      font-weight: 700;
-      color: #ffffff;
-      background: var(--secondary); 
-      border-radius: 4px;
-      letter-spacing: 0.1em;
-    }
+/* 2. 你的面包屑与徽章容器 */
+.breadcrumb-container {
+  position: relative; /* 为徽章绝对定位提供参考 */
+  padding-top: 2.5rem; /* 为徽章预留空间 */
+  
+  /* 🌟 删掉之前的 overflow: hidden 和 flex-wrap: wrap，它们会导致吸附失效 */
+
+  &::before {
+    content: "44664698.xyz";
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0.2rem 0.8rem;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #ffffff;
+    background: var(--secondary); 
+    border-radius: 4px;
+    letter-spacing: 0.1em;
+  }
 }
 // 1. 隐藏原来的 Graph View
 .graph {

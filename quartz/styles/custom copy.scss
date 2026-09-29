@@ -1,0 +1,47 @@
+@use "./variables.scss" as *;
+
+// put your custom CSS here!
+.breadcrumb-container {
+    // 1. 关键：为绝对定位的伪元素提供位置参照物
+    position: relative;
+    
+    // 2. 关键：在顶部预留足够空间（约2.5rem），防止徽章遮挡下方的面包屑
+    padding-top: 2.5rem; 
+
+    &::before {
+      content: "44664698.xyz";
+      
+      // 3. 关键：使用绝对定位，脱离 Flex 布局，不再受 margin 干扰
+      position: absolute;
+      top: 0;
+      left: 0;
+      
+      display: block;
+      white-space: nowrap; // 防止文字被折行
+      
+      padding: 0.2rem 0.8rem;
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #ffffff;
+      background: var(--secondary); 
+      border-radius: 4px;
+      letter-spacing: 0.1em;
+    }
+}
+// 1. 隐藏原来的 Graph View
+.graph {
+  display: none !important;
+}
+
+// 2. 在右侧边栏原本的位置放上你的图片
+.sidebar.right::before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 3000px; // 根据你的图片比例调整，如果是正方形的图，200px 差不多
+  background-image: url("/static/huizhang02.png");
+  background-size: contain; // 保持图片比例不变形
+  background-repeat: no-repeat;
+  background-position: center top; // 图片靠上居中显示
+  margin-bottom: 1.5rem; // 跟下方元素的间距
+}
