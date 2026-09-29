@@ -9,6 +9,9 @@
   background-color: var(--light); /* 🌟 必须加背景色，否则内容会透出来 */
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--lightgray); /* 加一条底边线，看起来更像导航栏 */
+  /* 1. 缩小“面包屑导航”和“文章标题”之间的空白 */
+  margin-bottom: 0.5rem !important; /* 把原本的 2rem 缩小到 0.5rem */
+  padding-bottom: 0.2rem !important; /* 缩小底部的内边距 */
 }
 
 /* 2. 你的面包屑与徽章容器 */
@@ -48,4 +51,16 @@
   background-repeat: no-repeat;
   background-position: center top; // 图片靠上居中显示
   margin-bottom: 1.5rem; // 跟下方元素的间距
+}
+/* 2. 缩小“组织章程”标题上方的空白 */
+.article-title {
+  margin-top: 0 !important; /* 强制去掉标题上方自带的边距 */
+  padding-top: 0 !important;
+}
+
+/* 3. 干掉“1 min read”底部的巨大留白（关键就是改这个父级 p 标签） */
+.page-header .content-meta {
+  margin-top: 0 !important;
+  margin-bottom: 0rem !important; /* 如果你想完全贴紧正文，可以改成 0 */
+  padding-bottom: 0 !important;
 }
