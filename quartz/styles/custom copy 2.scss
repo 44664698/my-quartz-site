@@ -6,38 +6,33 @@
   position: sticky;
   top: 0;
   z-index: 100;
-  background-color: var(--light); 
-  border-bottom: 1px solid var(--lightgray); 
-  
-  /* 🌟 增加一点上边距，让 LOGO 不贴顶 */
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  margin-bottom: 0.1rem !important; 
+  background-color: var(--light); /* 🌟 必须加背景色，否则内容会透出来 */
+  border-bottom: 1px solid var(--lightgray); /* 加一条底边线，看起来更像导航栏 */
+  /* 1. 缩小“面包屑导航”和“文章标题”之间的空白 */
+  margin-bottom: 0.1rem !important; /* 把原本的 2rem 缩小到 0.5rem */
+  padding-bottom: 0.5rem !important; /* 缩小底部的内边距 */
 }
 
-/* 2. 面包屑容器（去掉之前的 padding-top 和绝对定位） */
+/* 2. 你的面包屑与徽章容器 */
 .breadcrumb-container {
-  /* 不需要特殊定位了，让它自然排布 */
-  position: relative; 
-}
+  position: relative; /* 为徽章绝对定位提供参考 */
+  padding-top: 2.5rem; /* 为徽章预留空间 */
+  
+  /* 🌟 删掉之前的 overflow: hidden 和 flex-wrap: wrap，它们会导致吸附失效 */
 
-/* 🌟 3. 将 LOGO 改为普通块级元素，牢牢占据上方空间 */
-.breadcrumb-container::before {
-  content: "44664698.xyz";
-  display: block;           /* 独占一行 */
-  width: fit-content;       /* 宽度只包裹文字 */
-  
-  /* 🌟 关键：改用相对定位或普通流，不再使用 absolute */
-  position: relative;       
-  margin-bottom: 0.5rem;    /* 与下方导航的间距 */
-  
-  padding: 0.2rem 0.8rem;
-  font-size: 1.1rem;
-  font-weight: 700;
-  color: #ffffff;
-  background: var(--secondary); 
-  border-radius: 4px;
-  letter-spacing: 0.1em;
+  &::before {
+    content: "44664698.xyz";
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0.2rem 0.8rem;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #ffffff;
+    background: var(--secondary); 
+    border-radius: 4px;
+    letter-spacing: 0.1em;
+  }
 }
 // 1. 隐藏原来的 Graph View
 .graph {
