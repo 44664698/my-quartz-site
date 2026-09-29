@@ -1,36 +1,35 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-/* 1. 让整个顶部页眉吸附在屏幕上 */
+
+/* =========================================
+   1. 顶部页眉：固定吸附 + 纯实色背景（不搞毛玻璃）
+   ========================================= */
 .page-header {
   position: sticky;
   top: 0;
   z-index: 100;
+  /* 🌟 使用纯实色背景，截图时绝不透底 */
   background-color: var(--light); 
   border-bottom: 1px solid var(--lightgray); 
-  
-  /* 🌟 增加一点上边距，让 LOGO 不贴顶 */
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
   margin-bottom: 0.1rem !important; 
+  padding-bottom: 0.5rem !important; 
 }
 
-/* 2. 面包屑容器（去掉之前的 padding-top 和绝对定位） */
+/* =========================================
+   2. 顶部 LOGO 与 面包屑导航
+   ========================================= */
 .breadcrumb-container {
-  /* 不需要特殊定位了，让它自然排布 */
   position: relative; 
+  padding-top: 2.5rem; /* 为徽章预留空间 */
 }
 
-/* 🌟 3. 将 LOGO 改为普通块级元素，牢牢占据上方空间 */
+/* 悬浮在左上角的官网域名 Logo */
 .breadcrumb-container::before {
   content: "44664698.xyz";
-  display: block;           /* 独占一行 */
-  width: fit-content;       /* 宽度只包裹文字 */
-  
-  /* 🌟 关键：改用相对定位或普通流，不再使用 absolute */
-  position: relative;       
-  margin-bottom: 0.5rem;    /* 与下方导航的间距 */
-  
+  position: absolute;
+  top: 0;
+  left: 0;
   padding: 0.2rem 0.8rem;
   font-size: 1.1rem;
   font-weight: 700;
@@ -39,39 +38,33 @@
   border-radius: 4px;
   letter-spacing: 0.1em;
 }
-// 1. 隐藏原来的 Graph View
+
+/* =========================================
+   3. 右侧边栏：隐藏原图，替换为军团徽章
+   ========================================= */
+/* 隐藏原来的 Graph View */
 .graph {
   display: none !important;
 }
 
-// 2. 在右侧边栏原本的位置放上你的图片
+/* 在右侧边栏原本的位置放上你的图片 */
 .sidebar.right::before {
   content: "";
   display: block;
-  
-  /* 🌟 核心修改：改用百分比，让它铺满侧边栏可用空间 */
   width: 100%; 
-  aspect-ratio: 1 / 1; /* 🌟 确保它是正方形，随着宽度自动放大，不写 height: 400px 了 */
-  
-  /* 🌟 确保它水平居中，并留出下方间距 */
+  aspect-ratio: 1 / 1; /* 正方形自适应 */
   margin: 0 auto 1.5rem auto; 
-
-  background-image: url("/static/huizhang02.png"); /* 名字改成了英文，非常棒！ */
+  background-image: url("/static/huizhang02.png"); 
   background-size: contain; 
   background-repeat: no-repeat;
   background-position: center;
 }
-/* 2. 缩小“组织章程”标题上方的空白 */
-.article-title {
-  margin-top: 0 !important; /* 强制去掉标题上方自带的边距 */
-  padding-top: 0 !important;
-  display: none !important; /* 隐藏文章标题 */
-}
 
-/* 3. 干掉“1 min read”底部的巨大留白（关键就是改这个父级 p 标签） */
-.page-header .content-meta {
-  margin-top: 0 !important;
-  margin-bottom: 0rem !important; /* 如果你想完全贴紧正文，可以改成 0 */
-  padding-bottom: 0 !important;
-  display: none !important; /* 隐藏阅读时间、日期等元信息 */
+/* =========================================
+   4. 精简页面信息：隐藏冗余的标题和元信息
+   ========================================= */
+/* 隐藏文章标题和“1 min read” */
+.article-title,
+.content-meta {
+  display: none !important;
 }
