@@ -1,3 +1,4 @@
+![[军团徽章 1.png|405]]
 # 1 [[序言]]
 # 2 [[本军团不降级条款：理想主义]]
 # 3 [[关于‘星际猎人’社群煽动网暴事件的严正声明]]
@@ -23,5 +24,4 @@
 # 8 [[内部事务]]
 - ## [查战功](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 - ## [缝合](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=BB08J2)
-- ## [请假单](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=42ob9y)
 # 9 [[小本本]]
