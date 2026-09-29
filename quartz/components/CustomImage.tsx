@@ -1,5 +1,4 @@
-// quartz/components/CustomImage.tsx
-import { QuartzComponent, QuartzComponentConstructor } from "./types"
+import { QuartzComponent, QuartzComponentConstructor } from "../types"
 
 const CustomImage: QuartzComponent = () => {
   return (
@@ -16,7 +15,6 @@ CustomImage.css = `
   align-items: center;
   padding: 1rem;
 }
-
 .custom-image-container img {
   max-width: 100%;
   height: auto;
