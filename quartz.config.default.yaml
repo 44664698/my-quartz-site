@@ -195,7 +195,7 @@ plugins:
     layout:
       position: beforeBody
       priority: 5
-      condition: not-index
+#      condition: not-index
   - source: "@quartz-community/comments"
     enabled: false
     options:
