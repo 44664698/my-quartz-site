@@ -41,18 +41,18 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  - source: "./quartz/components/CustomImage.tsx" # 指向你创建的组件
-    enabled: true
-    layout:
-      position: right # 放置在右侧边栏
-      priority: 10 # 设置一个合适的优先级
-    options:
-      defaultDateType: modified
-      priority:
-        - frontmatter
-        - git
-        - filesystem
-    order: 10
+#  - source: "./quartz/components/CustomImage.tsx" # 指向你创建的组件
+#    enabled: true
+#    layout:
+#      position: right # 放置在右侧边栏
+#      priority: 10 # 设置一个合适的优先级
+#    options:
+#      defaultDateType: modified
+#      priority:
+#        - frontmatter
+#        - git
+#        - filesystem
+#    order: 10
   - source: "@quartz-community/syntax-highlighting"
     enabled: true
     options:
