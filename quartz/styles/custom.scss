@@ -68,3 +68,15 @@
 .content-meta {
   display: none !important;
 }
+
+/* 🌟 统一全站无序列表的行间距与行高 */
+ul li {
+  margin-bottom: 0.2rem !important; /* 列表项之间的间距 */
+  line-height: 0.1 !important;      /* 单行文字的上下舒展度 */
+}
+
+/* 如果你觉得列表和上方标题离得太近，可以再加这一句 */
+ul {
+  margin-top: 0.2rem !important;
+  margin-bottom: 0.2rem !important;
+}
