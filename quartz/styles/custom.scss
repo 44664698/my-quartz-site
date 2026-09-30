@@ -71,12 +71,19 @@
 
 /* 🌟 统一全站无序列表的行间距与行高 */
 ul li {
-  margin-bottom: 0.2rem !important; /* 列表项之间的间距 */
-  line-height: 0.1 !important;      /* 单行文字的上下舒展度 */
+  margin-bottom: 0.3rem !important; /* 列表项之间的间距 */
+  line-height: 1.2 !important;      /* 单行文字的上下舒展度 */
 }
 
-/* 如果你觉得列表和上方标题离得太近，可以再加这一句 */
-ul {
-  margin-top: 0.2rem !important;
-  margin-bottom: 0.2rem !important;
+/* 🌟 1. 强制压缩所有标题的上下间距 */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0.1rem !important;    /* 控制标题与上方内容的距离 */
+  margin-bottom: 0.1rem !important; /* 控制标题与下方内容的距离，大幅调小 */
+  padding-top: 0 !important;
+}
+
+/* 🌟 2. 确保列表和标题紧贴 */
+ul, ol {
+  margin-top: 0rem !important;
+  margin-bottom: 1.5rem !important;
 }
