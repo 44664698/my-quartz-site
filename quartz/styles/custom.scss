@@ -77,13 +77,13 @@ ul li {
 
 /* 🌟 1. 强制压缩所有标题的上下间距 */
 h1, h2, h3, h4, h5, h6 {
-  margin-top: 0.1rem !important;    /* 控制标题与上方内容的距离 */
-  margin-bottom: 0.1rem !important; /* 控制标题与下方内容的距离，大幅调小 */
+  margin-top: 0.2rem !important;    /* 控制标题与上方内容的距离 */
+  margin-bottom: 0.2rem !important; /* 控制标题与下方内容的距离，大幅调小 */
   padding-top: 0 !important;
 }
 
 /* 🌟 2. 确保列表和标题紧贴 */
 ul, ol {
   margin-top: 0rem !important;
-  margin-bottom: 1.5rem !important;
+  margin-bottom: 0rem !important;
 }
