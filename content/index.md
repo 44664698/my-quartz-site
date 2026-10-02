@@ -2,7 +2,6 @@
 # 2 [[本军团不降级条款：理想主义]]
 # 3 [[关于‘星际猎人’社群煽动网暴事件的严正声明]]
 # 4 [[组织章程]]
-- ## <span style="background-color:#ff9900">[[军事体系#^8671ee|二赛战略调整]]</span>
 - ## <span style="background-color:#ff9900">[[奖励分配#^a1299e|奖励分配]]</span>
 - ## [[行政体系#^3ed7ec|理事会名单]]
 - ## [[编制9.26|军团编制]]
@@ -10,6 +9,7 @@
 - ## 战功的算法：[[战功体系#^cbadbd|PVP]]、[[战功体系#^46f638|PVE]]、[[战功体系#^22566e|招人加成]]
 - ## <span style="background-color:#ff9900">[[战功体系#^8226dd|淘汰规则]]</span>：[负战功榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l) 
 # 5 [[时事新闻#^7dea2e|时事新闻]]
+- ## <span style="background-color:#ff9900">[[军事体系#^10d04c|二赛战略调整]]</span>
 - ## [第三期合众加成](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=mivhwk)
 - ## <span style="background-color:#ff9900">[军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)</span>
 - ## <span style="background-color:#ff9900">[[时事新闻#^ca03e1|敌对方]]</span>--计战功
