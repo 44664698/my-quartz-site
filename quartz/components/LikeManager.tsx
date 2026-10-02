@@ -35,14 +35,7 @@ LikeManager.afterDOMLoaded = `
 
 LikeManager.css = `
   .inline-like-btn {
-    /* 🌟 核心修改：改成行内块元素，就不会换行了 */
-    display: inline-block !important; 
-    
-    /* 🌟 稍微加点左边距，让按钮和文字之间有点呼吸空间 */
-    margin: 0 0 0 0.8rem !important; 
-    
-    /* 🌟 让按钮和文字垂直居中对齐，不然会显得高低不平 */
-    vertical-align: middle !important; 
+    margin: 1.5rem 0;
   }
   .inline-like-btn button {
     padding: 0.4rem 1.2rem;
