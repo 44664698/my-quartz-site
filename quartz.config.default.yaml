@@ -262,6 +262,11 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+  - source: "./quartz/components/LikeManager.tsx"
+    enabled: true
+    layout:
+      position: afterBody
+      priority: 10
 layout:
   groups:
     toolbar:
