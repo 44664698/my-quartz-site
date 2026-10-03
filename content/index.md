@@ -10,9 +10,6 @@
 - ## <span style="background-color:#ff9900">[[战功体系#^8226dd|淘汰规则]]</span>：[负战功榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l) 
 # 5 [[时事新闻#^7dea2e|时事新闻]]
 - ## <span style="background-color:#ff9900">[[军事体系#^10d04c|二赛战略调整]]</span>
-- ## [第三期合众加成](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=mivhwk)
-- ## <span style="background-color:#ff9900">[军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)</span>
-- ## <span style="background-color:#ff9900">[[时事新闻#^ca03e1|敌对方]]</span>--计战功
 # 6 [[课件&攻略]]---[每晚21:30萌新小课堂-按需答疑或讲课](http://live.bilibili.com/30440983)
 - ## [[PVE怎么参与打城]]
 - ## [[PVP怎么作战]]
@@ -22,6 +19,7 @@
 - ## [[荣誉&活动#^6c642d|狼人杀积分赛]]
 - ## [[荣誉&活动#^cef4a0|封狼居胥]]
 # 8 [[内部事务]]
+- ## <span style="background-color:#ff9900">[军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)</span>
 - ## [查战功](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 - ## [缝合](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=BB08J2)
 # 9 [[小本本]]
