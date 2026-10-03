@@ -19,7 +19,7 @@
 - ## [[荣誉&活动#^6c642d|狼人杀积分赛]]
 - ## [[荣誉&活动#^cef4a0|封狼居胥]]
 # 8 [[内部事务]]
+- ## [二赛战功登记表](https://my.feishu.cn/share/base/form/shrcnFm6qTvk19xEcBxscFBRX5e)---[详情表](https://my.feishu.cn/share/base/form/shrcnFm6qTvk19xEcBxscFBRX5e)
 - ## <span style="background-color:#ff9900">[军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)</span>
-- ## [查战功](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
-- ## [缝合](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=BB08J2)
+- ## [查一赛战功](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 # 9 [[小本本]]
