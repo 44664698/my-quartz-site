@@ -5,7 +5,7 @@
 - ## <span style="background-color:#ff9900">[[奖励分配]]</span>
 - ## [[行政体系#^3ed7ec|理事会名单]]
 - ## [[战功体系#^d57eac|战功的意义]]
-- ## 战功的算法：[[战功体系#^cbadbd|PVP]]、[[战功体系#^46f638|PVE]]、[[战功体系#^22566e|招人加成]]
+- ## [[战功体系#^a8bf6b|战功的算法]]
 - ## <span style="background-color:#ff9900">[[战功体系#^46f638|淘汰规则]]</span>：[低活跃榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l) 
 - ## <span style="background-color:#ff9900">[[敌对规则]]</span>
 # 5 [[短期规划]]
