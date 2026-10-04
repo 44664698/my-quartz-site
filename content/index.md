@@ -20,7 +20,7 @@
 - ## [[荣誉&活动#^6c642d|狼人杀积分赛]]
 - ## [[荣誉&活动#^cef4a0|封狼居胥]]
 # 9 [[内部事务]]
-- ## [[军团编制]]
+- ## <span style="background-color:#ff9900">[[军团编制]]</span>
 - ## [PVP战功登记表](https://my.feishu.cn/share/base/form/shrcnFm6qTvk19xEcBxscFBRX5e)---[详情表](https://my.feishu.cn/wiki/XZTuwhsGTijkXvk2AQ6cclx2nhb?from=from_copylink)
 - ## [战功总览](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 # 10 [[小本本]]
