@@ -10,7 +10,7 @@
 - ## <span style="background-color:#ff9900">[[战功体系#^8226dd|淘汰规则]]</span>：[低活跃榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l) 
 # 5 [[管理与短期规划]]
 - ## 待最高指挥官出现
-# 6 [[前沿消息#^7dea2e|前沿消息]]
+# 6 [[前沿消息]]
 - ## <span style="background-color:#ff9900">[[军事体系#^10d04c|二赛战略调整]]</span>
 # 7 [[课件&攻略]]---[每晚21:30萌新小课堂-按需答疑或讲课](http://live.bilibili.com/30440983)
 - ## [[PVE怎么参与打城]]
