@@ -4,7 +4,7 @@
 # 4 [[组织治理]]
 - ## <span style="background-color:#ff9900">[[奖励分配]]</span>
 - ## [[行政体系#^3ed7ec|理事会名单]]
-- ## [[编制9.26|军团编制]]
+- ## [[军团编制|军团编制]]
 - ## [[战功体系#^d57eac|战功的意义]]
 - ## 战功的算法：[[战功体系#^cbadbd|PVP]]、[[战功体系#^46f638|PVE]]、[[战功体系#^22566e|招人加成]]
 - ## <span style="background-color:#ff9900">[[战功体系#^8226dd|淘汰规则]]</span>：[低活跃榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l) 
