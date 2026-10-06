@@ -8,7 +8,6 @@
 - ## <span style="background-color:#ff9900">[[战功体系#^a17cd9|淘汰机制]]</span>：[低活跃榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l) 
 - ## <span style="background-color:#ff9900">[[敌对规则]]</span>
 # 5 [[短期规划]]
-- ## 待最高指挥官出现
 # 6 [[前沿展示]]
 - ## [[短期规划#^a8fed2|二赛造船规划]]
 - ## [[短期规划#^62f5f2|积分换什么]]
