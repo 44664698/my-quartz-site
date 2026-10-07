@@ -6,7 +6,7 @@
 - ## [[行政体系#^3ed7ec|理事会名单]]
 - ## [[战功体系]]
 - ## <span style="background-color:#ff9900">[[战功体系#^a17cd9|淘汰机制]]</span>：[低活跃榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l) 
-- ## <span style="background-color:#ff9900">[[敌对规则]]</span>
+- ## <span style="background-color:#ff9900">[[敌对规则]]</span>---被无理欺负了，上传证据点这里：[军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)
 # 5 [[短期规划]]
 # 6 [[前沿展示]]
 - ## [[短期规划#^a8fed2|二赛造船规划]]
