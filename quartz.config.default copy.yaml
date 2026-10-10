@@ -267,12 +267,6 @@ plugins:
     layout:
       position: afterBody
       priority: 10
-  # 🌟 新增的 Twikoo 评论组件
-  - source: "./quartz/components/TwikooComments.tsx"
-    enabled: true
-    layout:
-      position: afterBody
-      priority: 20
 layout:
   groups:
     toolbar:
