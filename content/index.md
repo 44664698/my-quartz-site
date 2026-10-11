@@ -22,3 +22,4 @@
 - ## [战功总览](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 - ## [请假单](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=42ob9y)
 # 10 [[小本本]]
+<iframe src="https://44664698.discourse.group" width="100%" height="800px" style="border: none;"></iframe>
