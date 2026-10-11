@@ -140,3 +140,9 @@ export function defineComponent<Options extends object | undefined = undefined>(
   ;(factory as any).__quartzComponent = { manifest }
   return factory
 }
+
+
+export { default as TwikooComments } from './TwikooComments'
+
+
+export { default as LikeManager } from './LikeManager'

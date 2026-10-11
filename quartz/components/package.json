@@ -1,0 +1,24 @@
+﻿{
+  "name": "ih-comments",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "exports": {
+    ".": "./index.ts",
+    "./TwikooComments": "./TwikooComments.tsx",
+    "./LikeManager": "./LikeManager.tsx"
+  },
+  "quartz": {
+    "components": {
+      "TwikooComments": {
+        "name": "TwikooComments",
+        "displayName": "Twikoo Comments",
+        "description": "Twikoo comment system for Quartz"
+      },
+      "LikeManager": {
+        "name": "LikeManager",
+        "displayName": "Like Manager",
+        "description": "Like button component"
+      }
+    }
+  }
+}

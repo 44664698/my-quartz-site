@@ -41,18 +41,6 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-#  - source: "./quartz/components/CustomImage.tsx" # 指向你创建的组件
-#    enabled: true
-#    layout:
-#      position: right # 放置在右侧边栏
-#      priority: 10 # 设置一个合适的优先级
-#    options:
-#      defaultDateType: modified
-#      priority:
-#        - frontmatter
-#        - git
-#        - filesystem
-#    order: 10
   - source: "@quartz-community/syntax-highlighting"
     enabled: true
     options:
@@ -190,12 +178,11 @@ plugins:
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
     enabled: true
-    options:                    # 新增 options 字段
-      rootName: "《北斗七星》官网首页"       # 将 Home 改为你想要的名称
+    options:
+      rootName: "《北斗七星》官网首页"
     layout:
       position: beforeBody
       priority: 5
-#      condition: not-index
   - source: "@quartz-community/comments"
     enabled: false
     options:
@@ -262,17 +249,7 @@ plugins:
       position: afterBody
       priority: 50
       display: all
-  - source: "./quartz/components/LikeManager.tsx"
-    enabled: true
-    layout:
-      position: afterBody
-      priority: 10
-  # 🌟 新增的 Twikoo 评论组件
-  - source: "./quartz/components/TwikooComments.tsx"
-    enabled: true
-    layout:
-      position: afterBody
-      priority: 20
+  # =====================================
 layout:
   groups:
     toolbar:
