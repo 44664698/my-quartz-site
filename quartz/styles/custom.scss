@@ -87,3 +87,12 @@ ul, ol {
   margin-top: 0rem !important;
   margin-bottom: 0rem !important;
 }
+
+/* 强制显示 iframe 嵌入 */
+iframe {
+  display: block !important;
+  width: 100% !important;
+  min-height: 800px !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}

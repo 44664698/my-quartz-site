@@ -22,4 +22,22 @@
 - ## [战功总览](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 - ## [请假单](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=42ob9y)
 # 10 [[小本本]]
-<iframe src="https://44664698.discourse.group" width="100%" height="800px" style="border: none;"></iframe>
+<div id='discourse-comments'></div>
+<div id='discourse-comments'></div>
+<div id='discourse-comments'></div>
+
+<div id='discourse-comments'></div>
+<script>
+  DiscourseEmbed = {
+    discourseUrl: '**`https://44664698.discourse.group`**',
+    topicId: 'REPLACE_WITH_TOPIC_ID',
+    fullApp: true,
+    embedHeight: '800px'
+  };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
