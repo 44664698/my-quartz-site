@@ -22,22 +22,9 @@
 - ## [战功总览](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 - ## [请假单](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=42ob9y)
 # 10 [[小本本]]
-<div id='discourse-comments'></div>
-<div id='discourse-comments'></div>
-<div id='discourse-comments'></div>
 
-<div id='discourse-comments'></div>
-<script>
-  DiscourseEmbed = {
-    discourseUrl: '**`https://44664698.discourse.group`**',
-    topicId: 'REPLACE_WITH_TOPIC_ID',
-    fullApp: true,
-    embedHeight: '800px'
-  };
-
-  (function() {
-    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
-    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
-  })();
-</script>
+<div style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;">
+  <a href="https://44664698.discourse.group" target="_blank" style="display: inline-block; padding: 1rem 2rem; font-size: 1.2rem; font-weight: bold; color: #ffffff; background-color: #284b63; border-radius: 8px; text-decoration: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.2s ease;">
+    💬 进入《北斗七星》论坛
+  </a>
+</div>
