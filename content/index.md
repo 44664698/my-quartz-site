@@ -1,12 +1,12 @@
 # 1 [[序言]]
 # 2 [[本军团不降级条款：理想主义]]
 # 3 [[关于‘星际猎人’社群煽动网暴事件的严正声明]]
-# 4 <span style="background-color:#ff9900">[[组织治理]]</span>
+# 4 [[组织治理]]
 - ## [[奖励分配]]
 - ## [[行政体系#^3ed7ec|理事会名单]]
 - ## [[战功体系]]
 - ## [[军团编制]]
-- ## [[战功体系#^a17cd9|淘汰机制]]：[负战功榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l) 
+- ## <span style="background-color:#ff9900">[[战功体系#^a17cd9|淘汰机制]]</span>：[负战功榜](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=h6l58l) 
 - ## [[敌对规则]]---被无理欺负了，上传证据点这里：[军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)
 # 5 [[短期规划]]
 # 6 [[前沿展示]]
@@ -19,17 +19,8 @@
 - ## [[荣誉&活动#^6c642d|狼人杀积分赛]]
 - ## [[荣誉&活动#^cef4a0|封狼居胥]]
 # 9 [[内部事务]]
+- ## <span style="background-color:#ff9900">[报名加入军团编制](https://docs.qq.com/form/page/DWnFwdmFIcmdNSGpL)</span>
 - ## [战功总览](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
-- ## [请假单](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=42ob9y)
+- ## [请假单](https://docs.qq.com/form/page/DWmJ0V2ptakp3WUxt)
+- ## [北斗论坛](https://44664698.discourse.group)
 # 10 [[小本本]]
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://docs.qq.com/form/page/DWnFwdmFIcmdNSGpL" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 1rem 2rem; font-size: 1.2rem; font-weight: bold; color: #ffffff; background-color: #284b63; border-radius: 8px; text-decoration: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.2s ease;">
-    📝 报名加入军团编制
-  </a>
-</div>
-
-<div style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;">
-  <a href="https://44664698.discourse.group" target="_blank" style="display: inline-block; padding: 1rem 2rem; font-size: 1.2rem; font-weight: bold; color: #ffffff; background-color: #284b63; border-radius: 8px; text-decoration: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.2s ease;">
-    💬 进入《北斗七星》论坛
-  </a>
-</div>
