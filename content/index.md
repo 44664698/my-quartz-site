@@ -22,6 +22,11 @@
 - ## [战功总览](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 - ## [请假单](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=42ob9y)
 # 10 [[小本本]]
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://docs.qq.com/form/page/DWnFwdmFIcmdNSGpL" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 1rem 2rem; font-size: 1.2rem; font-weight: bold; color: #ffffff; background-color: #284b63; border-radius: 8px; text-decoration: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.2s ease;">
+    📝 报名加入军团编制
+  </a>
+</div>
 
 <div style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;">
   <a href="https://44664698.discourse.group" target="_blank" style="display: inline-block; padding: 1rem 2rem; font-size: 1.2rem; font-weight: bold; color: #ffffff; background-color: #284b63; border-radius: 8px; text-decoration: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.2s ease;">
