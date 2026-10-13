@@ -19,7 +19,7 @@
 - ## [[荣誉&活动#^6c642d|狼人杀积分赛]]
 - ## [[荣誉&活动#^cef4a0|封狼居胥]]
 # 9 [[内务]]
-- ## <span style="background-color:#ff9900">[报名加入军团编制](https://docs.qq.com/form/page/DWnFwdmFIcmdNSGpL)</span>
+- ## <span style="background-color:#ff9900">[军团编制，是否加入？](https://docs.qq.com/form/page/DWnFwdmFIcmdNSGpL)</span>
 - ## [军团编制名单](https://docs.qq.com/mind/DWmRZQ05HbXhOQ3NM?mode=outline)
 - ## [战功总览](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 - ## [请假单](https://docs.qq.com/form/page/DWmJ0V2ptakp3WUxt)
