@@ -10,6 +10,7 @@
 - ## [[敌对规则]]---被无理欺负了，上传证据点这里：[军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)
 # 5 [[短期规划]]
 # 6 [[前沿展示]]
+- ## [[飞书群]]
 - ## [[阵营]]
 - ## [[短期规划#^a8fed2|二赛造船规划]]
 - ## [[短期规划#^62f5f2|积分换什么]]
