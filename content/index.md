@@ -23,6 +23,6 @@
 - ## [军团编制导图](https://www.zhixi.com/view/d6417c56)
 - ## [战功总览](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 - ## [请假单](https://docs.qq.com/form/page/DWmJ0V2ptakp3WUxt)
-- ## 吐槽频道：
+- ## [吐槽频道：](https://pd.qq.com/s/26yiukgiz)
   ![[Pasted image 20261020032932.png]]
   
