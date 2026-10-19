@@ -20,7 +20,7 @@
 - ## [[荣誉&活动#^6c642d|狼人杀积分赛]]
 - ## [[荣誉&活动#^cef4a0|封狼居胥]]
 # 9 [[内务]]
-- ## [[军团编制名单]]
+- ## [军团编制导图](https://docs.qq.com/mind/DWmRZQ05HbXhOQ3NM?mode=mind)
 - ## [战功总览](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 - ## [请假单](https://docs.qq.com/form/page/DWmJ0V2ptakp3WUxt)
 - ## [北斗论坛](https://44664698.discourse.group)
