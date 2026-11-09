@@ -19,7 +19,7 @@
 - ## [[荣誉&活动#^cef4a0|封狼居胥]]
 # 9 [[内务]]
 - ## [军团编制导图](https://www.zhixi.com/view/d6417c56)
-- ## [战功总览](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
+- ## [军团数据库](https://docs.qq.com/sheet/DWmFwSEpWQ25vTmdM?tab=xmme78)
 - ## [请假单](https://docs.qq.com/form/page/DWmJ0V2ptakp3WUxt)
   
 # 10 常驻公告
