@@ -5,7 +5,6 @@
 - ## [[奖励分配]]
 - ## [[权力与地位]]
 - ## [[战功体系]]
-- ## [[军团编制]]
 - ## [[敌对规则]]---被无理欺负了，上传证据点这里：[军团证据库](https://my.feishu.cn/wiki/LWVLwq7DmiPKYAkmYHLc8hSqnYg?from=from_copylink)
 # 5 [[前沿展示]]
 # 6 [[课件&攻略]]---[每晚21:30萌新小课堂-按需答疑或讲课](http://live.bilibili.com/30440983)
